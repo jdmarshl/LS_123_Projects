@@ -8,4 +8,4 @@ Projects:<p>
 	2.	Effectiveness of EPA Environmental Enforcement Actions (Chenxi Duan and Prashanth Ganesh)<p>
 	3.	Predicting Neighborhood Gentrification (Frank Wang and Alexander Aprea)<p>
 	4.	Toxics Exposure and Life Expectancy (Emma Engler, Kenneth Park, Jameson Hohbein)<p>
-	5.	Detecting Medicare Fraud (Anonymous)
+	5.	Detecting Medicare Fraud (Anonymous) [note: requires additional datafile too large to upload 'Medicare Physician and Other Supplier NPI Aggregate Report_CY2016.csv' which is publicly available data]
